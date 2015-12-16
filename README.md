@@ -1,2 +1,0 @@
-# mdwradiant
-Midwest Radiant
