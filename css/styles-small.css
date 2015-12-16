@@ -1,0 +1,62 @@
+html, body {
+	height: 100% !important;
+	width: 100% !important;
+	margin: 0px;
+	padding: 0px;
+}
+
+.onepage {
+	height: 900px !important;
+	width: 100% !important;
+}
+
+.container {
+	height: 25% !important;
+	width: 100% !important;
+}
+
+div.main {
+    min-height: 1390px;
+    margin: 0 auto;
+    letter-spacing: 0;
+}
+
+.clearfix {
+    display: block;
+}
+
+.threePack {
+    width: inherit;
+    height: 700px;
+}
+
+.heat, .cool{
+    float: none;
+    margin: 0 auto 5%;
+    width: 59%;
+    padding: 0 10%;
+}
+
+.air {
+    width: 59%;
+    height: 200px;
+    padding: 0 10%;
+    float: none;
+    margin: auto;
+}
+
+.heat {
+    height: 200px;
+    border-radius: 3px;
+    border-bottom: 3px solid #D54925;
+    margin-right: 78px;
+    background-color: #fff;
+}
+
+.cool {
+    height: 200px;
+    border-radius: 3px;
+    border-bottom: 3px solid #3AA6CA;
+    margin-right: 78px;
+    background-color: #fff;
+}

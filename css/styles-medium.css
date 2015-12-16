@@ -1,0 +1,16 @@
+.threePack {
+    width: 1235px;
+}
+
+.heat, .cool {
+    width: 29%;
+    float: left;
+    text-align: center;
+
+}
+
+.air {
+    width: 29%;
+    float: left;
+    text-align: center;;
+}
